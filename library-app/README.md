@@ -37,4 +37,5 @@
 - HTML ввод фильтруется с помощью `htmlspecialchars()`
 
 ## 📸 Скриншоты
-![Админ панель](image.png)
+![Admin](https://github.com/user-attachments/assets/e48222c6-1487-4d4a-92c7-ec47dc27a645)
+
